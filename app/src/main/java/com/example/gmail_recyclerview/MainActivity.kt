@@ -20,11 +20,11 @@ class MainActivity : AppCompatActivity() {
         repeat(10) {
             items.add(
                 GmailModel(
-                    sender = "conmeo.com.vn",
-                    title = "This is your change to do something very very very important!!!",
-                    content = "Today we announce something very important for you this is your change to take an advantage of cat",
+                    sender = "dangkhoadz.com.vn",
+                    title = "This is your change is your change is your change is your change is your change!!!",
+                    content = "Today very important very important very important very important very important very important very important ",
                     time = "12:30 AM",
-                    logoPath = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGr1do83pQvvYqz4mCXOr2xRbP5QP2Z5k2A&usqp=CAU",
+                    logoPath = "https://assets3.thrillist.com/v1/image/3069256/1200x600/crop;;webp=auto;jpeg_quality=85.jpg",
                     isMark = false
                 )
             )
